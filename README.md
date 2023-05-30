@@ -64,12 +64,12 @@
    
    <img src="/assets/images/certifications/Coursera_Advanced_DS_IBM.jpeg" alt="IBM Advanced Data Science Certificate" width="200"><br>
    
-   <img src="/assets/images/certifications/Deep_Neural_Network_with_Pytorch.jpeg.jpeg" alt="DeepNeural Network with Pytorch Certificate" width="200"><br>
+   <img src="/assets/images/certifications/Deep_Neural_Network_with_Pytorch.jpeg" alt="DeepNeural Network with Pytorch Certificate" width="200"><br>
    
-   
+   <img src="/assets/images/certifications/AZ_900.png" alt="Microsoft Azure Fundamentals (AZ-900)" width="200"><br>
    
    <img src="/assets/images/certifications/ibm-data-science-certificate.png" alt="IBM Data Science Professional Certificate" width="200"><br>
-   <img src="/assets/images/certifications/microsoft-azure-az-900-certificate.png" alt="Microsoft Azure Fundamentals (AZ-900)" width="200"><br>
+   
    <img src="/assets/images/certifications/blockchain-technology-certificate.png" alt="EdX Verified Certificates for Blockchain Technology" width="200"><br>
    <img src="/assets/images/certifications/bitcoin-cryptocurrencies-certificate.png" alt="EdX Verified Certificates for Bitcoin and Cryptocurrencies" width="200"><br>
 </div>
