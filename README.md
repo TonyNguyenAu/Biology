@@ -58,7 +58,7 @@
 
 #### Certifications:
 <div style="text-align:center">
-   <img src="/assets/images/certifications/ibm-ai-engineering-certificate.png" alt="IBM AI Engineering Professional Certificate" width="200"><br> 
+   <img src="/assets/images/certifications/IBM_AI_Engineering.png" alt="IBM AI Engineering Professional Certificate" width="200"><br> 
    
    <img src="/assets/images/certifications/Applied-DS.jpeg" alt="IBM Applied Data Science Certificate" width="200"><br>
    
@@ -68,8 +68,11 @@
    
    <img src="/assets/images/certifications/AZ_900.png" alt="Microsoft Azure Fundamentals (AZ-900)" width="200"><br>
    
-   <img src="/assets/images/certifications/ibm-data-science-certificate.png" alt="IBM Data Science Professional Certificate" width="200"><br>
+   <img src="/assets/images/certifications/DP_100.png" alt="Coursera Microsoft Azure Data Scientist Associate (DP-100)" width="200"><br>    
    
-   <img src="/assets/images/certifications/blockchain-technology-certificate.png" alt="EdX Verified Certificates for Blockchain Technology" width="200"><br>
-   <img src="/assets/images/certifications/bitcoin-cryptocurrencies-certificate.png" alt="EdX Verified Certificates for Bitcoin and Cryptocurrencies" width="200"><br>
+   <img src="/assets/images/certifications/IBM_Data_Science.png" alt="IBM Data Science Professional Certificate" width="200"><br>
+   
+   <img src="/assets/images/certifications/Blockchain_Technology.png" alt="EdX Verified Certificates for Blockchain Technology" width="200"><br>
+   
+   <img src="/assets/images/certifications/Bitcoin_and_Cryptocurrency.png" alt="EdX Verified Certificates for Bitcoin and Cryptocurrencies" width="200"><br>
 </div>
