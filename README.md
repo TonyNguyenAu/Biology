@@ -5,7 +5,7 @@
 📧 Email: nguyenxuantoan@cfvg.org
 
 #### Summary:
-🚀 Highly skilled and motivated data scientist and team leader with 5+ years of experience in data analysis and 15+ years of team leadership experience. Proficient in AI/ML, Python, SQL, and data visualization tools such as Tableau and PowerBI. Passionate about driving business decisions and leading teams effectively. Currently seeking a challenging data science or data analysis role in Australia.
+🚀 Highly skilled and motivated data scientist and team leader with 5+ years of experience in data analysis and 15+ years of team leadership experience. Proficient in AI/ML, Python, SQL, and data visualization tools such as Tableau and PowerBI. Passionate about driving business decisions and leading teams effectively. 
 
 #### Education:
 - 💼 MBA, CFVG (Centre Franco-Vietnamien de formation à la Gestion), Hanoi - Vietnam (2013)
